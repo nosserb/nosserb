@@ -1,7 +1,8 @@
 ![img](https://i.ibb.co/gbBSWh38/b4b00fdc6235.png)
 ![img](https://p84.cooltext.com/Rendered/Cool%20Text%20-%20I%20dont%20just%20build%20projects%20I%20build%20my%20future%20500030179073587.png)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/guylann-bresson-19459b365/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guylann-bresson-19459b365/)
+
 
 
 ‎‎ 

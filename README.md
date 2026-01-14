@@ -27,12 +27,14 @@ Curious, autonomous, and motivated, I like turning ideas into clean, efficient, 
 
 ***[Ascii art WEB](https://github.com/nosserb/ascii-WEB)*** - Web application that generates and displays ASCII art in the browser from user input.
 
-***[Guess IT](https://github.com/nosserb/guess-it)*** - Go-based number prediction system using 8 statistical predictors and dynamic margins to estimate the next value in a sequence with 99.99% accuracy.
+***[Guess IT](https://github.com/nosserb/guess-it)*** ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+ - Go-based number prediction system using 8 statistical predictors and dynamic margins to estimate the next value in a sequence with 99.99% accuracy.
 
 ### Personal Projects
 
 ***[Galactic Blast](https://github.com/nosserb/GalacticBlast)*** - Web app that generates high-quality custom images from text, with adjustable fonts, colors, glow effects, and automatic ImgBB hosting.
 
-***[Bresson Script (BRS)](https://github.com/nosserb/BResson-Script)*** - Minimalist interpreted programming language designed for readability and simplicity, with built-in functions for file handling, calculations, I/O, and control structures.
+***[Bresson Script (BRS)](https://github.com/nosserb/BResson-Script)*** ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+ - Minimalist interpreted programming language designed for readability and simplicity, with built-in functions for file handling, calculations, I/O, and control structures.
 
 ***[Nova AI Assistant](https://github.com/nosserb/Nova_Assistant)*** - Local, customizable Python voice assistant with speech recognition, text-to-speech, AI integration, and a web interface for configuration.

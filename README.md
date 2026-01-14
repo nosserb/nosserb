@@ -1,7 +1,8 @@
 ![img](https://i.ibb.co/gbBSWh38/b4b00fdc6235.png)
+![img](https://i.ibb.co/C38kDRkq/de95efe9ba8d.png)
 
- #### ***I don’t just build projects. I build my future.***
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guylann-bresson-19459b365/)
+
 
 
 

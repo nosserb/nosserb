@@ -1,5 +1,3 @@
-# **GUYLANN**  **BRESSON**
-
 ![img](https://i.ibb.co/gbBSWh38/b4b00fdc6235.png)
 
  #### ***I don’t just build projects. I build my future.***

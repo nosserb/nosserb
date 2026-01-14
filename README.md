@@ -34,4 +34,4 @@ Curious, autonomous, and motivated, I like turning ideas into clean, efficient, 
 
 ***[Bresson Script (BRS)](https://github.com/nosserb/BResson-Script)*** - Minimalist interpreted programming language designed for readability and simplicity, with built-in functions for file handling, calculations, I/O, and control structures.
 
-***[Nova AI Assistant](https://github.com/nosserb/Nova_Assistant)*** - Local, customizable Python voice assistant with speech recognition, text-to-speech, AI integration, and a web interface for configuration.
+***[Nova AI Assistant](https://github.com/nosserb/Nova_Assistant)***  ![Python](https://www.python.org/static/community_logos/python-logo.png) - Local, customizable Python voice assistant with speech recognition, text-to-speech, AI integration, and a web interface for configuration.

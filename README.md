@@ -25,7 +25,7 @@ Curious, autonomous, and motivated, I like turning ideas into clean, efficient, 
 
 ***[Ascii art WEB](https://github.com/nosserb/ascii-WEB)*** - Web application that generates and displays ASCII art in the browser from user input.
 
-***[Guess IT](https://github.com/nosserb/guess-it)*** ![GO](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg)  - Go-based number prediction system using 8 statistical predictors and dynamic margins to estimate the next value in a sequence with 99.99% accuracy.
+***[Guess IT](https://github.com/nosserb/guess-it)*** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Go" width="40" />  - Go-based number prediction system using 8 statistical predictors and dynamic margins to estimate the next value in a sequence with 99.99% accuracy.
 
 ### Personal Projects
 

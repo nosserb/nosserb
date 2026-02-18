@@ -4,7 +4,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18385460.svg)](https://doi.org/10.5281/zenodo.18385460)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guylann-bresson-19459b365/)
+[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guylann-bresson-19459b365/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/guylann-bresson-19459b365/](https://nosserb.github.io/portfolio/))
 
 
 ‎‎ 

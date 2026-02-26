@@ -1,7 +1,3 @@
-![img](https://i.ibb.co/gbBSWh38/b4b00fdc6235.png)
-
-
-
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18385460.svg)](https://doi.org/10.5281/zenodo.18385460)
 
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guylann-bresson-19459b365/)

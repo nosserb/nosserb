@@ -5,9 +5,6 @@
 
 ---
 
-![Zenodo vues](https://img.shields.io/badge/Zenodo%20Vues-333-brightgreen)
-![Zenodo téléchargements](https://img.shields.io/badge/Zenodo%20Téléchargements-134-blue)
-
 ## About Me
 
 Passionate about computer science from a young age, I love building concrete projects, experimenting with ideas, and understanding systems under the hood. I focus on **hands-on development, problem-solving, and research**, exploring ways to simplify complex systems while creating innovative tools.  
@@ -34,7 +31,8 @@ A **voice-controlled agent** that interprets user intentions to open apps, websi
 
 ### IA Atomique — Atomic AI Inference Engine  
 *Preprint with DOI: [Zenodo link](https://zenodo.org/)*  
-**258 views / 100 downloads**
+![Zenodo vues](https://img.shields.io/badge/Zenodo%20Vues-333-brightgreen)
+![Zenodo téléchargements](https://img.shields.io/badge/Zenodo%20Téléchargements-134-blue)
 
 - **Distributed, asynchronous AI engine** inspired by atomic resonance.  
 - **Emergent intelligence** from local interactions of simple computational atoms.  

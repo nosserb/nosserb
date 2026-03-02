@@ -30,7 +30,7 @@ A **voice-controlled agent** that interprets user intentions to open apps, websi
 ## Research
 
 ### IA Atomique — Atomic AI Inference Engine  
-*Preprint with DOI: [Zenodo link](https://zenodo.org/)*  
+*Preprint with DOI: [Zenodo link](https://zenodo.org/records/18487035)*  
 ![Zenodo vues](https://img.shields.io/badge/Zenodo%20Vues-333-brightgreen)
 ![Zenodo téléchargements](https://img.shields.io/badge/Zenodo%20Téléchargements-134-blue)
 

@@ -1,37 +1,50 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18385460.svg)](https://doi.org/10.5281/zenodo.18385460)
 
-[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guylann-bresson-19459b365/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://nosserb.github.io/portfolio/)
+# Guylann Bresson — Developer & Researcher
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18385460.svg)](https://doi.org/10.5281/zenodo.18385460) • [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guylann-bresson-19459b365/) [![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://nosserb.github.io/portfolio/)
 
-‎‎ 
 ---
-‎‎ 
-‎ 
+
 ## About Me
-Passionate about computer science since a young age, I enjoy building concrete projects, experimenting with ideas, and understanding how systems work under the hood.
 
-I work on a variety of topics including software development, systems, and problem-solving, always with a hands-on approach. Several of my projects can be found below.
+Passionate about computer science from a young age, I love building concrete projects, experimenting with ideas, and understanding systems under the hood. I focus on **hands-on development, problem-solving, and research**, exploring ways to simplify complex systems while creating innovative tools.  
 
-🎓 I’m currently a computer science student, continuously improving my skills through studies, self-learning, and personal projects.
+🎓 Currently a computer science student, I combine self-learning, personal projects, and research to continuously improve my skills.  
 
-Curious, autonomous, and motivated, I like turning ideas into clean, efficient, and functional solutions.
+---
 
+## Projects
 
-## **projects**
+### Bresson Script (BRS)
+Minimalist interpreted language prioritizing **readability and simplicity**, with built-in file handling, calculations, control structures, and I/O. Designed to **reduce boilerplate and accelerate coding**.  
 
-### ***School Projects***
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Go" width="20" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="20" /> ***[Groupie Tracker](https://github.com/nosserb/groupie-tracker)*** - Web application built in Go that consumes a REST API to display and visualize artists, concerts, dates, and locations through a user-friendly interface.
+### Galactic Blast
+Web app generating **high-quality images from text** with customizable fonts, colors, glow effects, and automatic hosting.  
 
+### Nova — Local AI Assistant
+A **voice-controlled agent** that interprets user intentions to open apps, websites, or services autonomously. Designed for **ease-of-use, accessibility, and automation**, capable of generalizing beyond fixed commands.  
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Go" width="20" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="20" /> ***[Ascii art WEB](https://github.com/nosserb/ascii-WEB)*** - Web application that generates and displays ASCII art in the browser from user input.
+### University Mini-ENT
+Custom portal for university students to **simplify access to timetables, links, and resources**, reducing friction in daily navigation.  
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Go" width="20" />  ***[Guess IT](https://github.com/nosserb/guess-it)*** - Go-based number prediction system using 8 statistical predictors and dynamic margins to estimate the next value in a sequence with 99.99% accuracy.
+---
 
-### Personal Projects
+## Research
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="20" />  ***[Galactic Blast](https://github.com/nosserb/GalacticBlast)*** - Web app that generates high-quality custom images from text, with adjustable fonts, colors, glow effects, and automatic ImgBB hosting.
- 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Go" width="20" />  ***[Bresson Script (BRS)](https://github.com/nosserb/BResson-Script)*** - Minimalist interpreted programming language designed for readability and simplicity, with built-in functions for file handling, calculations, I/O, and control structures.
+### IA Atomique — Atomic AI Inference Engine  
+*Preprint with DOI: [Zenodo link](https://zenodo.org/)*  
+**258 views / 100 downloads**
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="20" />  ***[Nova AI Assistant](https://github.com/nosserb/Nova_Assistant)*** - Local, customizable Python voice assistant with speech recognition, text-to-speech, AI integration, and a web interface for configuration.
+- **Distributed, asynchronous AI engine** inspired by atomic resonance.  
+- **Emergent intelligence** from local interactions of simple computational atoms.  
+- Adaptive, robust, and lightweight network capable of **self-organization, learning, and resilience**.  
+- Applications: **smart cities, collaborative robotics, industrial IoT, predictive maintenance**.  
+
+*Summary:* Instead of central control, intelligence emerges naturally from repeated local interactions. Each unit adjusts its state according to neighbors, creating coherent, scalable, and energy-efficient behaviors.  
+
+---
+
+## Skills & Technologies
+- Languages: Go, Python, HTML/CSS  
+- Tools: MicroPython, Local LLMs (LM Studio), REST APIs  
+- Concepts: AI agents, distributed systems, asynchronous computation, emergent behavior  

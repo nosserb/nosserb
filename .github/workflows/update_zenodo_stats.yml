@@ -3,7 +3,7 @@ name: Update Zenodo Stats
 on:
   schedule:
     - cron: '0 12 * * *'  # tous les jours à 12h UTC
-  workflow_dispatch:       # pour lancer manuellement
+  workflow_dispatch:
 
 jobs:
   update-stats:
@@ -32,4 +32,4 @@ jobs:
           file_pattern: "README.md"
           commit_user_name: "github-actions[bot]"
           commit_user_email: "41898282+github-actions[bot]@users.noreply.github.com"
-          token: ${{ secrets.GH_TOKEN }}
+          push_options: "--force --repo=https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git"

@@ -2,8 +2,8 @@ name: Update Zenodo Stats
 
 on:
   schedule:
-    - cron: '0 12 * * *' # tous les jours à 12h UTC
-  workflow_dispatch: # tu peux aussi le lancer manuellement
+    - cron: '0 12 * * *'  # tous les jours à 12h UTC
+  workflow_dispatch:       # pour lancer manuellement
 
 jobs:
   update-stats:
@@ -21,7 +21,7 @@ jobs:
       - name: Install requests
         run: pip install requests
 
-      - name: Update Zenodo stats
+      - name: Run Zenodo update script
         run: python update_zenodo_stats.py
 
       - name: Commit changes

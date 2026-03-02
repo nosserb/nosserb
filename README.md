@@ -5,6 +5,8 @@
 
 ---
 
+![Zenodo views](https://img.shields.io/badge/Zenodo%20Views-140-brightgreen)
+
 ## About Me
 
 Passionate about computer science from a young age, I love building concrete projects, experimenting with ideas, and understanding systems under the hood. I focus on **hands-on development, problem-solving, and research**, exploring ways to simplify complex systems while creating innovative tools.  

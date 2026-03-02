@@ -1,6 +1,6 @@
 import requests
 
-# Ton DOI ou ID Zenodo
+# Ton ID Zenodo
 zenodo_id = "18487035"
 url = f"https://zenodo.org/api/records/{zenodo_id}"
 

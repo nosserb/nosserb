@@ -3,14 +3,14 @@ name: Update Zenodo Stats
 on:
   schedule:
     - cron: '0 12 * * *'  # tous les jours à 12h UTC
-  workflow_dispatch:       # permet un déclenchement manuel
+  workflow_dispatch:       # pour lancer manuellement
 
 jobs:
   update-stats:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Set up Python
@@ -18,15 +18,18 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Install requests
+      - name: Install dependencies
         run: pip install requests
 
-      - name: Update Zenodo stats
+      - name: Run Zenodo update script
         run: python update_zenodo_stats.py
 
-      - name: Commit & push changes
+      - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "Update Zenodo stats"
           branch: main
-          file_pattern: README.md
+          file_pattern: "README.md"
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          token: ${{ secrets.GH_TOKEN }}

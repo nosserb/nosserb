@@ -5,7 +5,8 @@
 
 ---
 
-![Zenodo views](https://img.shields.io/badge/Zenodo%20Views-140-brightgreen)
+![Zenodo vues](https://img.shields.io/badge/Zenodo%20Vues-ZENODO_VIEWS-brightgreen)
+![Zenodo téléchargements](https://img.shields.io/badge/Zenodo%20Téléchargements-ZENODO_DOWNLOADS-blue)
 
 ## About Me
 

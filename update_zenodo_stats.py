@@ -29,13 +29,13 @@ def update_readme(content: str, views: int, downloads: int) -> str:
     updated = updated.replace("ZENODO_DOWNLOADS", str(downloads))
 
     updated = re.sub(
-        r"(Zenodo%20Vues-)(.*?)(-brightgreen)",
+        r"(Views-)(.*?)(-brightgreen)",
         rf"\g<1>{views}\g<3>",
         updated,
         count=1,
     )
     updated = re.sub(
-        r"(Zenodo%20Téléchargements-)(.*?)(-blue)",
+        r"( Downloads-)(.*?)(-blue)",
         rf"\g<1>{downloads}\g<3>",
         updated,
         count=1,

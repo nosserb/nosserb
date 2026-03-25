@@ -1,51 +1,59 @@
+<p align="center">
+    <img src="./img/1.png" alt="image"></a>
+</p>
 
-# Guylann Bresson
+# Hello, I'm Guylann Bresson
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18385460.svg)](https://doi.org/10.5281/zenodo.18385460) [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guylann-bresson-19459b365/) [![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://nosserb.github.io/portfolio/)
-
----
-
-![Zenodo vues](https://img.shields.io/badge/Zenodo%20Vues-333-brightgreen)
-![Zenodo téléchargements](https://img.shields.io/badge/Zenodo%20Téléchargements-134-blue)
-
-## About Me
-
-Passionate about computer science from a young age, I love building concrete projects, experimenting with ideas, and understanding systems under the hood. I focus on **hands-on development, problem-solving, and research**, exploring ways to simplify complex systems while creating innovative tools.  
-
-🎓 Currently a computer science student, I combine self-learning, personal projects, and research to continuously improve my skills.  
+<p align="left">
+  <a href="https://doi.org/10.5281/zenodo.18385460"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.18385460.svg" alt="DOI"></a>
+  <a href="https://www.linkedin.com/in/guylann-bresson-19459b365/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+  <a href="https://nosserb.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-222?style=flat-square&logo=react&logoColor=white" alt="Portfolio"></a>
+</p>
 
 ---
 
-## Projects
+### About Me
+Passionné d'informatique depuis mon plus jeune âge, je me concentre sur le **développement pratique, la résolution de problèmes et la recherche**. J'aime explorer comment simplifier des systèmes complexes tout en créant des outils innovants.
 
-### Bresson Script (BRS)
-Minimalist interpreted language prioritizing **readability and simplicity**, with built-in file handling, calculations, control structures, and I/O. Designed to **reduce boilerplate and accelerate coding**.  
-
-### Galactic Blast
-Web app generating **high-quality images from text** with customizable fonts, colors, glow effects, and automatic hosting.  
-
-### Nova — Local AI Assistant
-A **voice-controlled agent** that interprets user intentions to open apps, websites, or services autonomously. Designed for **ease-of-use, accessibility, and automation**, capable of generalizing beyond fixed commands.  
-
+* **Étudiant en Informatique** | Autodidacte & Chercheur indépendant.
+* Focus actuel : **IA distribuée, systèmes asynchrones et langages minimaux.**
 
 ---
 
-## Research
+### Research Focus
+#### **IA Atomique — Atomic AI Inference Engine**
+> *Intelligence émergente issue d'interactions locales entre atomes computationnels.*
+> **Preprint & Paper:** [Consulter sur Zenodo](https://zenodo.org/records/18487035)
 
-### IA Atomique — Atomic AI Inference Engine  
-*Preprint with DOI: [Zenodo link](https://zenodo.org/)*  
-**258 views / 100 downloads**
+- **Concept :** Moteur d'IA distribué et asynchrone inspiré par la résonance atomique.
+- **Impact :** Auto-organisation, résilience et basse consommation.
+- **Applications :** Smart cities, robotique collaborative, IoT Industriel.
 
-- **Distributed, asynchronous AI engine** inspired by atomic resonance.  
-- **Emergent intelligence** from local interactions of simple computational atoms.  
-- Adaptive, robust, and lightweight network capable of **self-organization, learning, and resilience**.  
-- Applications: **smart cities, collaborative robotics, industrial IoT, predictive maintenance**.  
-
-*Summary:* Instead of central control, intelligence emerges naturally from repeated local interactions. Each unit adjusts its state according to neighbors, creating coherent, scalable, and energy-efficient behaviors.  
+![Zenodo Views](https://img.shields.io/badge/Zenodo%20Views-333-brightgreen?style=flat-square) ![Downloads](https://img.shields.io/badge/Downloads-134-blue?style=flat-square)
 
 ---
 
-## Skills & Technologies
-- Languages: Go, Python, HTML/CSS  
-- Tools: MicroPython, Local LLMs (LM Studio), REST APIs  
-- Concepts: AI agents, distributed systems, asynchronous computation, emergent behavior  
+### Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Bresson Script (BRS)** | Langage interprété minimaliste axé sur la lisibilité et l'efficacité. | `Go` / `Interpreter` |
+| **Nova AI** | Assistant vocal local capable de généraliser les intentions utilisateurs. | `Python` / `LLMs` |
+| **Galactic Blast** | Générateur d'images textuelles haute qualité avec effets de lueur. | `Web Tech` |
+
+---
+
+### Skills & Stack
+
+- **Languages:** ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- **AI & Tools:** `Local LLMs`, `MicroPython`, `REST APIs`, `LM Studio`
+- **Core Concepts:** AI Agents, Distributed Systems, Asynchronous Computation, Emergent Behavior
+
+---
+
+### GitHub Stats
+![Guylann's GitHub stats](https://github-readme-stats.vercel.app/api?username=nosserb&show_icons=true&theme=transparent&hide_border=true)
+
+<p align="center">
+    <img src="./img/2.png" alt="image"></a>
+</p>

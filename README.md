@@ -37,7 +37,7 @@ Passionné d'informatique depuis mon plus jeune âge, je me concentre sur le **d
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Bresson Script (BRS)** | Langage interprété minimaliste axé sur la lisibilité et l'efficacité. | `Go` / `Interpreter` |
+| **EveryWear** | une application de garde-robe virtuelle propulsée par l'intelligence artificielle qui permet de photographier ses vêtements, de composer des tenues et de les essayer virtuellement sur soi. |
 | **Nova AI** | Assistant vocal local capable de généraliser les intentions utilisateurs. | `Python` / `LLMs` |
 | **Galactic Blast** | Générateur d'images textuelles haute qualité avec effets de lueur. | `Web Tech` |
 

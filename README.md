@@ -16,7 +16,7 @@
 Passionné d'informatique depuis mon plus jeune âge, je me concentre sur le **développement pratique, la résolution de problèmes et la recherche**. J'aime explorer comment simplifier des systèmes complexes tout en créant des outils innovants.
 
 * **Étudiant en Informatique** | Autodidacte & Chercheur indépendant.
-* Focus actuel : **IA distribuée, systèmes asynchrones et langages minimaux.**
+* Focus actuel : **EveryWear & mon cursus Zone01**
 
 ---
 

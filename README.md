@@ -4,6 +4,7 @@
 
 # Hello, I'm Guylann Bresson
 
+
 <p align="left">
   <a href="https://doi.org/10.5281/zenodo.18385460"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.18385460.svg" alt="DOI"></a>
   <a href="https://www.linkedin.com/in/guylann-bresson-19459b365/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Linkedin"></a>
@@ -15,8 +16,9 @@
 ### About Me
 Passionné d'informatique depuis mon plus jeune âge, je me concentre sur le **développement pratique, la résolution de problèmes et la recherche**. J'aime explorer comment simplifier des systèmes complexes tout en créant des outils innovants.
 
-* **Étudiant en Informatique** | Autodidacte & Chercheur indépendant.
-* Focus actuel : **EveryWear & mon cursus Zone01**
+| **Étudiant en Informatique** | Zone01 Rouen Normandie |
+| :--- | :--- |
+| **Focus actuel :** | **EveryWear & mon cursus Zone01** |
 
 ---
 
